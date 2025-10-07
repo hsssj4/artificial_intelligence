@@ -1,20 +1,23 @@
 # artificial_intelligence
-practice of pytorch tutorial
+- practice of pytorch tutorial
 
-week 1~4
+- week 1~5
 
 ## week1
-orientation
+- orientation
 
 ## week2
-start of learning ai
+- start of learning ai
 
-how to check, change computing memory
+- how to check, change computing memory
 
 ## week3
-audio io
+- audio io
 
-audio resampling
+- audio resampling
 
 ## week4
-Speech Recognition with Wav2Vec2
+- Speech Recognition with Wav2Vec2
+
+## week5
+- Text-to-speech with Tacotron2
